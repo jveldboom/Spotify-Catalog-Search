@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Spotify Catalog Browser</title>
+	<title>Spotify Music Catalog - search song library</title>
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.14/jquery-ui.min.js"></script>
 	<script>
@@ -141,7 +141,7 @@ color: #afe059;
 	<h2>Browse Catalog</h2>
 	This was developed to help your browse the Spotify catalog before you <a href="http://www.spotify.com/us/get-spotify/overview/">purchase the paid packages</a> - which BTW is well worth it!
 	<br /><br />
-	<a href="https://github.com/jveldboom/Spotify-Catalog-Brower">Visit our github</a> page to help us improve or squash bugs.
+	<a href="https://github.com/jveldboom/Spotify-Catalog-Search">Visit our github</a> page to help us improve or squash bugs.
 	<br /><br />
 	<a href="http://open.spotify.com/user/jveldboom"><img src="https://www.spotify.com/static/images/social-badge-en_US.png" alt="Follow me on Spotify" title="Follow me on Spotify"></a>
 	<br /><br />
